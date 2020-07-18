@@ -2,7 +2,7 @@
   "name": "employee-table",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://j-favorito.github.io/Homework-19",
+  "homepage": "http://j-favorito.github.io/employee-table",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -11,7 +11,8 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "scripts": {"predeploy": "npm run build",
+  "scripts": {
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
