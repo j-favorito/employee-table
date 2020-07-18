@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "firstName": "SpongeBob",
+    "lastName": "SquarePants",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "phoneNumber": 1234567890
+  },
+  {
+    "id": 2,
+    "firstName": "Eugene",
+    "lastName": "Krabs",
+    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+    "phoneNumber": 9876543210
+  },
+  {
+    "id": 3,
+    "firstName": "Squidward",
+    "lastName": "Tentacles",
+    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+    "phoneNumber": 5678901234
+  },
+  {
+    "id": 4,
+    "firstName": "Doug",
+    "lastName": "Funnie",
+    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
+    "phoneNumber": 3471420945
+  },
+  {
+    "id": 5,
+    "firstName": "Bugs",
+    "lastName": "Bunny",
+    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+    "phoneNumber": 6549387625
+  },
+  {
+    "id": 6,
+    "firstName": "Johnny",
+    "lastName": "Bravo",
+    "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
+    "phoneNumber": 9624739927
+  },
+  {
+    "id": 7,
+    "firstName": "Tommy",
+    "lastName": "Pickles",
+    "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
+    "phoneNumber": 4839476629
+  }
+]
